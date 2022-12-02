@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile-utils.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mobile-utils.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mobile-utils.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utilLibrary/mobile-utils.utilLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/utilLibrary/mobile-utils.utilLibrary.iml" />
+    </modules>
+  </component>
+</project>
