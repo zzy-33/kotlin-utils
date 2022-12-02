@@ -1,6 +1,7 @@
-package com.mobile.utillibrary
+package com.mobile.utillibrary.util
 
 import android.view.View
+import com.mobile.utillibrary.R
 
 /**
  * Created by Jordan on 2022/11/13.

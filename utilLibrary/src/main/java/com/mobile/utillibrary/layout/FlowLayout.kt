@@ -1,4 +1,4 @@
-package com.mobile.utillibrary
+package com.mobile.utillibrary.layout
 
 import android.content.Context
 import android.content.res.Resources

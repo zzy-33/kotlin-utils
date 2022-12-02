@@ -1,4 +1,4 @@
-package com.mobile.utillibrary
+package com.mobile.utillibrary.util
 
 import android.view.ViewGroup
 import android.view.ViewParent

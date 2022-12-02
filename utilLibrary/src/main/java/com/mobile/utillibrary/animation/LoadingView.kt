@@ -1,4 +1,4 @@
-package com.mobile.utillibrary
+package com.mobile.utillibrary.animation
 
 import android.content.Context
 import android.util.AttributeSet
@@ -8,6 +8,7 @@ import android.view.animation.LinearInterpolator
 import android.view.animation.RotateAnimation
 import android.widget.ImageView
 import android.widget.LinearLayout
+import com.mobile.utillibrary.R
 
 
 /**

@@ -11,7 +11,7 @@ import android.view.WindowManager
 import android.widget.TextView
 import androidx.appcompat.widget.AppCompatTextView
 import com.mobile.utillibrary.R
-import com.mobile.utillibrary.dp2pxF
+import com.mobile.utillibrary.util.dp2pxF
 
 /**
  * Created by Jordan on 2022/11/23.
