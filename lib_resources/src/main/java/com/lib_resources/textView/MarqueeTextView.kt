@@ -105,6 +105,19 @@ class MarqueeTextView(context: Context, attrs: AttributeSet) : AppCompatTextView
         }
     }
 
+    override fun setTextColor(color: Int) {
+        super.setTextColor(color)
+        if (mTextView != null) {
+            mTextView!!.setTextColor(color)
+            requestLayout()
+        }
+    }
+
+    fun setSpeed(speed: Float) {
+        mSpeed = speed
+    }
+
+
     override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
         super.onMeasure(widthMeasureSpec, heightMeasureSpec)
         mTextView!!.measure(MeasureSpec.UNSPECIFIED, heightMeasureSpec)
