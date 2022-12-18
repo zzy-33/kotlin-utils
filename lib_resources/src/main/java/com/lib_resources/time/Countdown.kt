@@ -53,7 +53,7 @@ class Countdown(tvCode: Button) {
                 }
             }
 
-        }.start();
+        }.start()
     }
 
     //这个方法可以在activity或者fragment销毁的时候调用，防止内存泄漏
